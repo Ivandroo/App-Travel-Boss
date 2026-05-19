@@ -106,9 +106,6 @@ body {
   gap: 1rem;
 }
 
-.footer__logo {
-  font-size: 1.75rem;
-}
 .footer__logo img {
   width: 120px;
 }

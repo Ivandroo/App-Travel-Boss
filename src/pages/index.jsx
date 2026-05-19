@@ -59,7 +59,6 @@ export default function Home() {
 
       <ScrollBehavior />
 
-      {/* Secção de Contacto */}
       <section className="contact-section">
         <div className="contact-content">
           <h2>Entre em contacto</h2>

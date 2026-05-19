@@ -158,6 +158,7 @@ export default function Sobre() {
       <section className="comentarios-section">
         <Comentarios />
       </section>
+      
     </div>
   );
 }

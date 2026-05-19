@@ -1,5 +1,8 @@
 export default function Contactos(){
     return(
-        <h1>Contactos</h1>
+        <section>
+            <h1>Contactos</h1>
+        </section>
+        
     )
 }
