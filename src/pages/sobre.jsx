@@ -108,7 +108,7 @@ export default function Sobre() {
     <div className="sobre">
       <section className="welcome-container">
         <div className="welcome-content">
-          <h1>Descubra mais sobre a Travel Boss</h1>
+          <h1>Saiba mais sobre a Travel Boss</h1>
           <p>Conheça os nossos serviços e como trabalhamos</p>
         </div>
       </section>
