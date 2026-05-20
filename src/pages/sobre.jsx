@@ -106,10 +106,14 @@ const porque = [
 export default function Sobre() {
   return (
     <div className="sobre">
-      <section className="welcome-container">
-        <div className="welcome-content">
+
+      <section className="contact-hero">
+        <div className="contact-hero__inner">
+          <span>Sobre</span>
           <h1>Saiba mais sobre a Travel Boss</h1>
-          <p>Conheça os nossos serviços e como trabalhamos</p>
+          <p>
+            Conheça os nossos serviços e como trabalhamos. Temos uma equipa dedicada pronta para ajudar com reservas, itinerários e dicas de viagem personalizadas.
+          </p>
         </div>
       </section>
 

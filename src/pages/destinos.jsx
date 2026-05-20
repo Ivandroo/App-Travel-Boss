@@ -138,10 +138,14 @@ export default function Destinos() {
 
   return (
     <div className="destinos">
-      <section className="welcome-container">
-        <div className="welcome-content">
-          <h1>Viaje com a nossa ajuda </h1>
-          <p>Escolha seu destino, seu visto e tratamos do resto</p>
+      
+      <section className="contact-hero">
+        <div className="contact-hero__inner">
+          <span>Destinos</span>
+          <h1>Viage com a nossa ajuda</h1>
+          <p>
+            Escolha o seu destino, seu visto e tratamos do resto. Temos uma equipa dedicada pronta para ajudar com reservas, itinerários e dicas de viagem personalizadas.
+          </p>
         </div>
       </section>
 
