@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   min-height: 40vh;
-  padding: 4rem 1.5rem;
+  padding: 4rem 6rem;
   background: linear-gradient(135deg, #0f172a 0%, #1d4ed8 100%);
   color: #fff;
   text-align: center;
@@ -27,7 +27,7 @@
   position: relative;
   z-index: 1;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 4rem auto;
 }
 
 .contact-hero__inner span {
@@ -76,7 +76,7 @@
 
 .contact-card-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(1, minmax(0px, 1fr));
   gap: 1.5rem;
 }
 
@@ -111,6 +111,14 @@
   display: block;
   font-size: 1rem;
   color: #0f172a;
+}
+
+.contact-card a {
+  display: inline-block;
+  font-size: 1rem;
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 .contact-form {

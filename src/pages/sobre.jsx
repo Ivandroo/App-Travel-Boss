@@ -146,7 +146,7 @@ export default function Sobre() {
         </div>
       </section>
 
-      <section className="nossos-servicos">
+      <section className="nossos-trabalhos">
         <h2 className="servicos-title">Nossos Trabalhos</h2>
         <div className="servicos-grid">
           {servicos.map((serv, i) => (

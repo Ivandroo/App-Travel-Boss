@@ -62,7 +62,7 @@ export default function Contactos() {
               <article className="contact-card">
                 <h3>Atendimento Rápido</h3>
                 <p>Respostas ágeis para quem precisa de apoio imediato.</p>
-                <strong>(+244) 923 456 789</strong>
+                <strong><a href="tel:+244926753370">(+244) 926 753 370</a></strong>
               </article>
               <article className="contact-card">
                 <h3>Envie um Email</h3>
@@ -70,14 +70,14 @@ export default function Contactos() {
                   Partilhe os seus planos e nós prepararemos uma proposta
                   personalizada.
                 </p>
-                <strong>info@travelboss.com</strong>
+                <strong><a href="mailto:geral@travelboss.gdmao.com">geral@travelboss.gdmao.com</a></strong>
               </article>
               <article className="contact-card">
                 <h3>Visite-nos</h3>
                 <p>
                   Estamos disponíveis na nossa sede para consultas presenciais.
                 </p>
-                <strong>Luanda, Angola</strong>
+                <strong><a href="https://share.google/dsNjrhAgUKQzJJgiG">Shopping Kikuxi, Luanda - Angola</a></strong>
               </article>
             </div>
 
@@ -130,7 +130,7 @@ export default function Contactos() {
           <div className="contact-details-footer">
             <div className="contact-summary-card">
               <h3>Horário de atendimento</h3>
-              <p>Segunda a Sexta: 09:00 – 18:00</p>
+              <p>Segunda a Sexta: 08:00 – 17:00</p>
               <p>Sábado: 10:00 – 14:00</p>
               <p>Domingo: Fechado</p>
             </div>
