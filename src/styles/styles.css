@@ -64,8 +64,12 @@ body {
   transition: opacity 0.2s;
 }
 .nav-links li a {
-  color: #f5f5f5;
+  color: #0b1836;
   text-decoration: none;
+  transition: color 0.2s;
+}
+.nav-links li a:hover {
+  color: #082364;
 }
 .nav-links li:hover {
   opacity: 0.9;
